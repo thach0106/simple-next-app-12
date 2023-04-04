@@ -1,0 +1,11 @@
+.git/
+.github/
+dist/
+node_modules/
+zap/
+*.md
+next-env.d.ts
+seo/
+utils/
+src/
+types.d.ts
