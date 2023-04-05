@@ -9,6 +9,12 @@
       ],
       "@/assets/*": [
         "src/assets/*"
+      ],
+      "@/shared/*": [
+        "src/shared/*"
+      ],
+      "@/*": [
+        "*"
       ]
     },
     "lib": [
